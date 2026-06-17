@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me
 
-<!--
-**caotrongphuoc/CaoTrongPhuoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm an embedded software engineer specializing in firmware development and event-driven architectures. At the momment, i'm interning on game development built on the AK Embedded Base Kit and camera module firmware. Working with:
+- C/C++ firmware development
+- Communication protocols (MQTT, HTTP, TLS)
+- Event-driven design patterns for game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology
+
+- **Languages:** C, C++
+- **Frameworks:** AK Embedded Base Kit
+- **Protocols:** MQTT, HTTP, TLS
+- **OS / Tooling:** Ubuntu
