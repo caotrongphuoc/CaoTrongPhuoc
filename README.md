@@ -1,4 +1,6 @@
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=blue&style=flat-square)
+</div>
 
 <div align="center">
   <img alt="ak-cover-linkedin-company-01" 
