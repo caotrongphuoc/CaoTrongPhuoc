@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="cao-trong-phuoc-linkedin-banner" 
-       src="resources/images/cao-trong-phuoc-linkedin-banner.png">
+  <img alt="ak-cover-linkdein-person-01" 
+       src="resources/images/ak-cover-linkedin-person-01.png">
 </div>
 
 ## About me
