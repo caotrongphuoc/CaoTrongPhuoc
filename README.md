@@ -17,3 +17,5 @@ I'm an embedded software engineer specializing in firmware development and event
 - **Frameworks:** AK Embedded Base Kit
 - **Protocols:** MQTT, HTTP and TLS
 - **Operating Systems:** Linux (Ubuntu)
+
+![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=8a2be2&style=flat-square)
