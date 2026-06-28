@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=blue&style=flat-square)
+
 <div align="center">
   <img alt="ak-cover-linkdein-person-01" 
        src="resources/images/ak-cover-linkedin-person-01.png">
@@ -17,5 +19,3 @@ I'm an embedded software engineer specializing in firmware development and event
 - **Frameworks:** AK Embedded Base Kit
 - **Protocols:** MQTT, HTTP and TLS
 - **Operating Systems:** Linux (Ubuntu)
-
-![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=red&style=flat-square)
