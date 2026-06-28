@@ -18,4 +18,4 @@ I'm an embedded software engineer specializing in firmware development and event
 - **Protocols:** MQTT, HTTP and TLS
 - **Operating Systems:** Linux (Ubuntu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=8a2be2&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=caotrongphuoc&label=PROFILE+VIEWS&color=red&style=flat-square)
